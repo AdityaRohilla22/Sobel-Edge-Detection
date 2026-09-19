@@ -1,0 +1,13 @@
+# Vivado Files
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+.Xil/
+project_*/
+*.bit
+
+# Python Files
+__pycache__/
+*.pyc
